@@ -1,4 +1,4 @@
-<img align="right" src=paimon.png" width="400px" alt="Paimon" title="Paimon" />
+<img align="right" src="paimon.png" width="400px" alt="Paimon" title="Paimon" />
 
 你好，旅行者
 
